@@ -5,7 +5,7 @@
 
  **Required Hardware**
  - Arduino Relay Module
- - ESP32C4FN Super Mini
+ - ESP32C3 Dev Module
  
  **Required Arduino Libraries**
  - esp32 by Espressif Systems (board) 3.2.0
