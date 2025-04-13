@@ -3,7 +3,30 @@
 
  This repository contains firmware for the HomeKit device described in this video: https://youtu.be/vQ_4E_zfgw4
 
- **Support the project**  
+ **Required Hardware**
+ - Arduino Relay Module
+ - ESP32C4FN Super Mini
+ 
+ **Required Arduino Libraries**
+ - esp32 by Espressif Systems (board) 3.2.0
+ - HomeSpan 2.1.1
+ 
+ **Arduino IDE Settings**
+ - Board: ESP32C3 Dev BModule
+ - ESP CDC On Boot: Enabled
+ - CPU Frequency: 80MHz (WiFi)
+ - Core Debug Level: None
+ - Erase All Flash Before Sketch Upload: Disabled
+ - Flash frequency: 80Mhz
+ - Flash Mode: QIO
+ - Flash Size: 4MB (32Mb)
+ - JTAG Adapter: Disabled
+ - Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)
+ - Upload Speed: 921600
+ - Zigbee Mode: Disabled
+ - Programmer: Esptool
+
+## Support the project**  
  
  If you like the project you can support me by the following link:  
  
