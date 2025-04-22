@@ -1,7 +1,7 @@
 # Smart Relay
  ESP32C3 smart relay for Apple Home Kit
 
- This repository contains firmware for the HomeKit device described in this video: https://youtu.be/vQ_4E_zfgw4
+ This repository contains firmware for the HomeKit device described in [this video](https://youtu.be/vQ_4E_zfgw4).
 
  **Required Hardware**
  - Arduino Relay Module
